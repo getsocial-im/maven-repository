@@ -3,7 +3,7 @@
   <groupId>im.getsocial</groupId>
   <artifactId>getsocial-core</artifactId>
   <versioning>
-    <release>7.5.0</release>
+    <release>7.5.1</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -119,7 +119,8 @@
       <version>7.4.12</version>
       <version>7.4.13</version>
       <version>7.5.0</version>
+      <version>7.5.1</version>
     </versions>
-    <lastUpdated>20210705100151</lastUpdated>
+    <lastUpdated>20210706103513</lastUpdated>
   </versioning>
 </metadata>
